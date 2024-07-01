@@ -31,7 +31,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zero1max&show_icons=true&locale=en" alt="zero1max" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zero1max&" alt="zero1max" /></p>
+<div align='center'>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zero1max&" alt="zero1max" /></p>
+</div>
 
 
 
