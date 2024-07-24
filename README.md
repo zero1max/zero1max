@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at **Home**
 
-- 🌱 I’m currently learning **RestAPI**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Python , Django**
 
